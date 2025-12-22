@@ -1,0 +1,10 @@
+structformer.code-workspace
+.vscode
+*.json
+*.pyc
+*.pkl
+*.txt
+*.pt
+data
+figures
+*.sh
