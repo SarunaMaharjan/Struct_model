@@ -36,8 +36,7 @@ Python 3, NLTK, ufal.chu_liu_edmonds and PyTorch are required for the current co
 Much of our preprocessing and evaluation code is based on the following repository:  
 - [Structformer](https://github.com/google-research/google-research/tree/master/structformer)  
 
-The Data used 
-for the experiments is taken from: 
+```bib
 @inproceedings{kunchukuttan-etal-2018-iit,
     title = "The {IIT} {B}ombay {E}nglish-{H}indi Parallel Corpus",
     author = "Kunchukuttan, Anoop  and
