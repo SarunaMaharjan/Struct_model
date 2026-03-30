@@ -35,3 +35,32 @@ Python 3, NLTK, ufal.chu_liu_edmonds and PyTorch are required for the current co
 ## Acknowledgements
 Much of our preprocessing and evaluation code is based on the following repository:  
 - [Structformer](https://github.com/google-research/google-research/tree/master/structformer)  
+
+The Data used 
+for the experiments is taken from: 
+@inproceedings{kunchukuttan-etal-2018-iit,
+    title = "The {IIT} {B}ombay {E}nglish-{H}indi Parallel Corpus",
+    author = "Kunchukuttan, Anoop  and
+      Mehta, Pratik  and
+      Bhattacharyya, Pushpak",
+    editor = "Calzolari, Nicoletta  and
+      Choukri, Khalid  and
+      Cieri, Christopher  and
+      Declerck, Thierry  and
+      Goggi, Sara  and
+      Hasida, Koiti  and
+      Isahara, Hitoshi  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Mazo, H{\'e}l{\`e}ne  and
+      Moreno, Asuncion  and
+      Odijk, Jan  and
+      Piperidis, Stelios  and
+      Tokunaga, Takenobu",
+    booktitle = "Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018)",
+    month = may,
+    year = "2018",
+    address = "Miyazaki, Japan",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "https://aclanthology.org/L18-1548/"
+}
